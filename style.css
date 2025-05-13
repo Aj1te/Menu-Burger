@@ -1,0 +1,16 @@
+.burger {
+    width: 30px;
+    margin: 10px 0 0 10px;
+}
+
+.burger span {
+  height: 3px;
+}
+
+.menu {
+  padding: 1rem;
+}
+
+.menu.open {
+  display: block;
+}
